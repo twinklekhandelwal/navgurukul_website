@@ -1,0 +1,713 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+/* .container
+  /* width:100%; */
+  /* height: 200%; */
+  /* background-color: #f05f40; */
+
+
+
+.navbar{
+  width:100%;
+  height:50px;
+  background-color:white;
+  /* position:fixed;   */
+ 
+  
+  
+}
+.links{
+
+/*   background-color:black;  */
+  float:right;
+  margin-right:18%;
+margin-top:1.2%; 
+
+  
+  
+  
+}
+.nav-link{
+  text-decoration:none;
+  padding-left:20px;
+  color:black;
+  font-size:13px;
+  font-weight:bold;
+  
+}
+/* a:hover{
+  color:red;
+} */
+.navbar__img{
+  width:12%;
+  height:50px;
+  margin-left:20%;
+   margin-top:0.5%;
+
+ display: inline-block; 
+}
+/* .crop-image{
+   
+  display: inline-block;
+  position: absolute;
+  clip: rect(0px,200px,400px,0px);  
+  
+
+  
+}
+  */
+.icon {
+  position:absolute;
+  top:90px;
+  left: 20px;
+  width: 90px; 
+}
+.information{
+  width:100%;
+  height:124px;
+  
+  
+}
+.informations-container{
+  width:33.3%;
+  height:124px;
+  float:left; 
+ 
+  }
+.platform{
+  background-color:#f4f4f4;
+}
+.number{
+  background-color:#eaeaea;
+}
+.placment{
+  background-color:#f4f4f4;
+}
+.platform-informations{
+  margin-left:8%;
+  margin-top:5%;
+  /* margin-right:1%; */
+}
+.explain-program{
+  font-family: Open Sans,Helvetica Neue,Arial,sans-serif;
+  font-size: 17px;
+  color: #777;
+  line-height: 1.7;
+  font-weight: 100;
+ /* text-align: center; */
+}
+.number-informations{
+  padding-left:9%;
+  padding-top:5%;
+  /* margin-right:9%; */
+}
+.helpline-number{
+  font-family: Dosis,Helvetica Neue,Arial,sans-serif;
+font-size: 20px;
+  color: #777;
+  line-height: 1.7;
+  font-weight: 100;
+}
+
+.placment-informations{
+  padding-left:9%;
+  padding-top:5%;
+  /* margin-right:9%; */
+}
+.problem-solving{
+  font-family: Dosis,Helvetica Neue,Arial,sans-serif;
+font-size: 16px;
+  color: #777;
+  line-height: 1.7;
+  font-weight: 100;
+}
+.alumimi-wrapper{
+  /* height: 850px; */
+  /* background-color: blue;  */
+  margin-top:80px;
+}
+ .alumimi-container{
+  width:50%;
+  height:100px;
+  /* background-color:pink; */
+  margin-left:20%; 
+  
+}
+.Team-text{
+  /* text-align: center; */
+  padding-left: 55%;
+  font-weight: 200;
+  font-size: 34px;
+  font-family: Dosis,Helvetica Neue,Arial,sans-serif;
+}
+.line{
+  width:51px;
+  border:2px solid red; 
+  margin-left:57%;
+  margin-top: 5;
+}
+
+.navgurukul{
+   height:450; 
+  /* position: relative;   */
+  width:28%;
+  /* background-color:white;        */
+  margin-left: 19px;   
+  float:left;
+   /* margin-top:10%;  */ 
+  
+}
+.team-member{
+  width:90%;
+  height:900px; 
+    /* background-color:black;        */
+  margin-left:8%;
+  
+}
+.pick{
+  position: relative;  
+   left:30%; 
+   top:0px; 
+  /* bottom:64%;   */
+  
+  border-top-left-radius: 30%;
+  border-bottom-right-radius:30%;
+ 
+    
+
+} 
+  
+
+.team-members{
+  font-weight: 200;
+  padding-top:6%; 
+  /* padding-left:15%; */
+  font-size:20px;
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  
+}
+
+.content{
+  font-size: 16px;
+    font-weight: 300;
+    color: #333;
+    font-family: Open Sans,Helvetica Neue,Arial,sans-serif;
+  
+  padding-top:15px;
+  line-height: 24px;
+  /* margin-right:10px; */
+  margin-left:24px;
+  
+
+  /* font-family: Open Sans,Helvetica Neue,Arial,sans-serif; */
+}
+.profesion{
+  /* font-weight: 300; */
+  padding-top:5px;
+  padding-left:35%;
+  color:#333;
+} 
+.COO-Co-founder {
+  margin-left:60px;
+}
+.Curriculum-Lead{
+  margin-left:60px;
+}
+
+.lead{
+  padding-left:30%;
+}   
+.alumini-linkdin{
+width:100%;
+height: 7px;
+background-color:#f05f40;
+
+margin-top:30px;
+}
+.in-list{
+  list-style-type: none;
+  
+}
+.linkdin-link{
+  text-decoration:none;
+  color:white;
+   padding-left:50%; 
+  padding-top:100%;
+  font-size:25px;
+  
+  /* text-align: center; */
+}
+.pick:hover{
+  border-radius:55%;
+  border:1px solid #f05f40; 
+  
+  }
+
+.alumini-linkdin:hover{
+  height: 45px;
+  bottom:10px;
+  
+  
+}
+ 
+ .theory{
+  width:70%;
+  height: 100px;
+   background-color:red;  
+  
+margin-left:15% ;
+
+ 
+ }
+ .theory-change{
+   text-align: center;
+   
+   font-size: 50px;
+   /* font-weight:100; */
+   line-height:95px;
+ }
+ .theory-line{
+   width:5%;
+   margin-left:47%;
+   border:3px solid red;
+ }
+ .student-skill{
+    background-color:yellow; 
+   height: 300px;
+   margin-top:30px;
+ }
+  .Theorys{
+width:33.3%;
+height: 318px;
+float:left;
+
+ } 
+ .part1{
+  background-color: #f05f40;
+  
+ }
+ .part2{
+  background-color:blue;
+ }
+ .student-pick{
+  background-color: #343a40;
+ 
+
+ }
+ 
+ .heading{
+   font-weight: 100;
+   font-size:28px;
+   color:white;
+   padding-left:45px;
+  padding-top:25px;
+   
+ }
+
+ .paragraph1{
+   font-size: 17px;
+   color: white;
+   padding-left:45px;
+   padding-top:15px;
+   line-height: 25px;
+   
+ }
+
+.heading2{
+  font-weight: 100;
+   font-size:28px;
+   color:rgba(255, 255, 255, 0.692);
+   padding-left:48px;
+  padding-top:25px;
+}
+
+.paragraph2{
+  font-size: 17px;
+  color: rgba(255, 255, 255, 0.692);
+  padding-left:48px;
+  padding-top:15px;
+  line-height: 27px;
+  
+}
+.english-container{
+  background-color: aqua; 
+  margin-top: 7%;
+
+}
+
+
+.english-improvement{
+  width:70%;
+  height: 100px;
+  margin-left: 12%;
+  /* background-color:rgb(49, 235, 49);    */
+  
+}
+
+.THE-PRESS{
+  padding-left:48%;
+  font-size: 28px;
+  /* padding-top: 23%; */
+  font-family: Dosis,Helvetica Neue,Arial,sans-serif;
+  font-weight: 40;
+}
+
+.THEPRESS-line{
+  width:5%;
+  margin-left:50%;
+  border:3px solid red;
+  margin-top: 27px;
+  margin-left:52%;
+  
+}
+.student-container{
+  /* height:500px; */
+background-color:blue; 
+}   
+
+.Better-india{
+  background-color: #f040d3
+}
+.news{
+  width:20%;
+  height:90px;
+  float:left;
+  /* position: relative; */
+  padding-left:70px;
+}
+.image-container{
+  margin-left: 21%;
+}
+
+.Quartz{
+  /* height: 100px;
+  width: 100%; */
+  background-color: orange;
+}
+
+.quartz-indian{
+ margin-left: 27%;
+  margin-top: 35px;
+  height: 100px;
+  width: 50%;
+  /* background-color: #f040d3;  */
+
+} 
+
+
+@media only screen and (max-width: 1482px){
+  .Facility-in-Charge{
+    margin-top:50px;
+    
+  }
+  .pick{
+    position: relative;  
+     left:30%; 
+     top:0px; 
+    /* bottom:64%;   */
+    
+    border-top-left-radius: 40%;
+    border-bottom-right-radius:40%;
+   
+      
+  
+  } 
+  .navgurukul{
+    height:500px;
+    /* position: relative;  */
+    width:28%;
+         
+    margin-left: 19px;   
+    float:left;
+}
+.team-member{
+  width:90%;
+  height: 1020;
+         
+  margin-left:8%;
+  
+}
+}
+ @media only screen and (max-width: 1300px){
+  .navbar__img{
+  width:12%;
+  height:50px;
+  margin-left:10%;
+   margin-top:0.5%;
+
+ display: inline-block; 
+}
+
+ 
+    .links{
+
+/*   background-color:black;  */
+  float:right;
+  margin-right:3%;
+margin-top:1.2%; 
+
+  
+    } 
+  
+
+.platform-informations{
+  margin-left:0%;
+  padding-left:20px;
+  margin-top:5%;
+}
+ }
+
+ @media only screen and (max-width:1081px){
+  .pick{
+    position: relative;  
+     left:30%; 
+     top:0px; 
+    /* bottom:64%;   */
+    
+    border-top-left-radius: 60%;
+    border-bottom-right-radius:60%;
+  }
+   
+  .profesion{
+    /* font-weight: 300; */
+    padding-top:5px;
+    padding-left:24%;
+    color:#333;
+  } 
+  .Facility-in-Charge{
+    margin-top:70px;
+    
+  }
+  .navgurukul{
+    height:500px;
+  
+    width:28%;
+    /* background-color:white;       */
+     margin-left: 19px;    
+    float:left;
+  }
+  .team-member{
+    width:90%;
+    height: 200%;
+      /* background-color:black;       */
+    margin-left:8%;
+    
+  }
+ }
+
+
+ @media only screen and (max-width: 1000px){
+  .navgurukul{
+  height:620px;
+   width:28%;
+       
+     margin-left: 19px;    
+    float:left;
+  }
+  .pick{
+    position: relative;  
+     left:5%; 
+     top:0px; 
+    /* bottom:64%;   */
+    
+    border-top-left-radius: 100%;
+    border-bottom-right-radius:100%;
+   
+      
+  
+  } 
+  /* .Facility-in-Charge{
+    height:720px;
+ width:35%;
+ margin-top:-10%; 
+     */
+  /* margin-left: 15%;      */
+  float:left;
+
+ }
+
+@media only screen and (max-width: 820px){
+
+  
+
+  .links{
+/* display:block;   */
+    margin-right:50%;
+    margin-top:0%;
+    
+    text-align:center;
+  }
+  .nav-link{
+    display:block;
+    clear:right;
+    line-height:25px;
+    
+  }
+  .navbar__img{
+  width:12%;
+  height:50px;
+  margin-left:30%;
+   margin-top:0.5%;
+
+ display: inline-block; 
+}
+.navbar{
+  width:100%;
+  height:220px;
+  
+  top:200px;
+ 
+  
+  
+}
+  
+.icon {
+  position:absolute;
+  top:240px;
+  left: 20px;
+  width: 90px; 
+}
+}
+@media only screen and (max-width: 780px){
+    .informations-container{
+      width:100%;
+      height:120px;
+      float:none; 
+    }
+    .alumimi-wrapper{
+      height: 800px;
+      /* background-color: red; */
+      margin-top:280px; 
+    }
+    
+     
+    /* .alumimi-container
+      height: 800px;
+      background-color: red; 
+      margin-top: 40px;
+    */
+
+  } 
+  /* @media only screen and (max-width: 742px){
+
+    .paragraph1{
+      font-size: 17px;
+      color: white;
+      padding-left:50%;
+      padding-top:15px;
+      line-height: 25px;
+      
+    }
+  
+  } */
+
+  @media only screen and (max-width: 700px){
+    .Facility-in-Charge{
+      height:720px;
+   width:35%;
+   margin-top:0%; 
+      
+    margin-left: 55%;     
+    float:left;
+  
+    }
+    
+      .navgurukul{
+        height:630px;
+        width:35%;
+             
+           margin-left: 9%;    
+          float:left;
+        }
+        
+  }
+
+  @media only screen and (max-width: 579px){
+    .navgurukul{
+      height:530px;
+      width:75%;
+        
+         margin-left: 9%;    
+        float:left;
+      }
+      .pick{
+        position: relative;  
+         left:25%; 
+         top:0px; 
+        border-top-left-radius: 30%;
+        border-bottom-right-radius:30%;
+       
+      }
+      .Facility-in-Charge{
+        height:720px;
+     width:75%;
+     margin-top:4%; 
+        
+      margin-left: 9%;      
+      float:left;
+    
+      }
+      .team-member{
+        width:90%;
+        height: 300%;
+               
+        margin-left:8%;
+        
+      } 
+      .profesion{
+        /* font-weight: 300; */
+        padding-top:5px;
+        padding-left:32%;
+        color:#333;
+      } 
+      @media only screen and (max-width: 324px){
+        .navgurukul{
+          height:660px;
+          width:75%;
+         
+             margin-left: 9%;    
+            float:left;
+          }
+          .pick{
+            width:50%;
+            position: relative;  
+             left:20%; 
+             top:0px; 
+            border-top-left-radius: 90%;
+            border-bottom-right-radius:90%;
+           
+          }
+          .team-member{
+            width:90%;
+            height: 350%;
+                
+            margin-left:8%;
+            
+          } 
+      }
+
+@media only screen and (max-width: 400px){
+.links{
+display:block;  
+    margin-right:37%;
+    margin-top:3%;
+  
+    
+    text-align:center;
+  }
+  
+/*   .a{
+   width:50%;
+ display: inline-block; 
+  position: absolute;
+  clip: rect(0px,300px,400px,0px);  
+  
+  
+} */
+}
+
+
